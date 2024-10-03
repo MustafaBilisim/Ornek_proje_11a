@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mustafa\\source\\repos\\11A_ornek_1\\11A_ornek_1\\11A_ornek_1.csproj": {}
+    "C:\\Users\\Mustafa\\Downloads\\Ornek_proje_11a-main\\Ornek_proje_11a-main\\11A_ornek_1\\11A_ornek_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mustafa\\source\\repos\\11A_ornek_1\\11A_ornek_1\\11A_ornek_1.csproj": {
+    "C:\\Users\\Mustafa\\Downloads\\Ornek_proje_11a-main\\Ornek_proje_11a-main\\11A_ornek_1\\11A_ornek_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mustafa\\source\\repos\\11A_ornek_1\\11A_ornek_1\\11A_ornek_1.csproj",
+        "projectUniqueName": "C:\\Users\\Mustafa\\Downloads\\Ornek_proje_11a-main\\Ornek_proje_11a-main\\11A_ornek_1\\11A_ornek_1.csproj",
         "projectName": "11A_ornek_1",
-        "projectPath": "C:\\Users\\Mustafa\\source\\repos\\11A_ornek_1\\11A_ornek_1\\11A_ornek_1.csproj",
+        "projectPath": "C:\\Users\\Mustafa\\Downloads\\Ornek_proje_11a-main\\Ornek_proje_11a-main\\11A_ornek_1\\11A_ornek_1.csproj",
         "packagesPath": "C:\\Users\\Mustafa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mustafa\\source\\repos\\11A_ornek_1\\11A_ornek_1\\obj\\",
+        "outputPath": "C:\\Users\\Mustafa\\Downloads\\Ornek_proje_11a-main\\Ornek_proje_11a-main\\11A_ornek_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mustafa\\AppData\\Roaming\\NuGet\\NuGet.Config",

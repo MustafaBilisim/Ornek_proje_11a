@@ -6,5 +6,10 @@ namespace _11A_ornek_1
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show(textBox1.Text);
+        }
     }
 }
