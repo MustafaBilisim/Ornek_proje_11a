@@ -1,0 +1,16 @@
+C:\Users\Mustafa\source\repos\11A_ornek_1\11A_ornek_1\bin\Debug\net8.0-windows\11A_ornek_1.exe
+C:\Users\Mustafa\source\repos\11A_ornek_1\11A_ornek_1\bin\Debug\net8.0-windows\11A_ornek_1.deps.json
+C:\Users\Mustafa\source\repos\11A_ornek_1\11A_ornek_1\bin\Debug\net8.0-windows\11A_ornek_1.runtimeconfig.json
+C:\Users\Mustafa\source\repos\11A_ornek_1\11A_ornek_1\bin\Debug\net8.0-windows\11A_ornek_1.dll
+C:\Users\Mustafa\source\repos\11A_ornek_1\11A_ornek_1\bin\Debug\net8.0-windows\11A_ornek_1.pdb
+C:\Users\Mustafa\source\repos\11A_ornek_1\11A_ornek_1\obj\Debug\net8.0-windows\_11A_ornek_1.Form1.resources
+C:\Users\Mustafa\source\repos\11A_ornek_1\11A_ornek_1\obj\Debug\net8.0-windows\11A_ornek_1.csproj.GenerateResource.cache
+C:\Users\Mustafa\source\repos\11A_ornek_1\11A_ornek_1\obj\Debug\net8.0-windows\11A_ornek_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\source\repos\11A_ornek_1\11A_ornek_1\obj\Debug\net8.0-windows\11A_ornek_1.AssemblyInfoInputs.cache
+C:\Users\Mustafa\source\repos\11A_ornek_1\11A_ornek_1\obj\Debug\net8.0-windows\11A_ornek_1.AssemblyInfo.cs
+C:\Users\Mustafa\source\repos\11A_ornek_1\11A_ornek_1\obj\Debug\net8.0-windows\11A_ornek_1.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\11A_ornek_1\11A_ornek_1\obj\Debug\net8.0-windows\11A_ornek_1.dll
+C:\Users\Mustafa\source\repos\11A_ornek_1\11A_ornek_1\obj\Debug\net8.0-windows\refint\11A_ornek_1.dll
+C:\Users\Mustafa\source\repos\11A_ornek_1\11A_ornek_1\obj\Debug\net8.0-windows\11A_ornek_1.pdb
+C:\Users\Mustafa\source\repos\11A_ornek_1\11A_ornek_1\obj\Debug\net8.0-windows\11A_ornek_1.genruntimeconfig.cache
+C:\Users\Mustafa\source\repos\11A_ornek_1\11A_ornek_1\obj\Debug\net8.0-windows\ref\11A_ornek_1.dll
